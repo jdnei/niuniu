@@ -13,9 +13,11 @@ NiuNiu牛牛机场官网地址</br>
 
 [https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
 ## 邀请码
+`此邀请码注册，可得免费3天试用套餐(此活动官方随时取消)`
 ```bash
 Wxy0327K
 ```
+![image](https://github.com/jdnei/niuniu/blob/main/niuniu/9405823948590shiyong.jpg?raw=true)</br>
 ## 优惠码/折扣码
 ```bash
 
@@ -49,14 +51,14 @@ NiuNiu牛牛机场是一家于2022年12月开业的网络加速服务商，主�
 补充套餐选择建议统一倍率和流量表述突出价格与流量性价比
 ## 📊 性能实测与分析
 #### 1.1电信晚高峰测速表现
-![image](?raw=true)</br>
+![image](https://github.com/jdnei/niuniu/blob/main/niuniu/43852094509cmct.png?raw=true)</br>
 #### 1.2联通晚高峰测速表现
-![image](?raw=true)</br>
+![image](https://github.com/jdnei/niuniu/blob/main/niuniu/4098509248509cmcu.png?raw=true)</br>
 #### 1.3移动晚高峰测速表现
-![image](?raw=true)</br>
+![image](https://github.com/jdnei/niuniu/blob/main/niuniu/9475209450cmcc.png?raw=true)</br>
 #### 2.1AI解锁报告
-![image](?raw=true)</br>
+![image](https://github.com/jdnei/niuniu/blob/main/niuniu/942759845798ai.png?raw=true)</br>
 #### 2.2流媒体解锁报告
-![image](?raw=true)</br>
+![image](https://github.com/jdnei/niuniu/blob/main/niuniu/4389725093457test.png?raw=true)</br>
 #### 3.落地入口分析
-![image](?raw=true)</br>
+![image](https://github.com/jdnei/niuniu/blob/main/niuniu/89752094509ana.png?raw=true)</br>
