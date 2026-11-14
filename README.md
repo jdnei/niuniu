@@ -2,7 +2,7 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# NiuNiu牛牛机场官方地址(2026年11月13日更新)
+# NiuNiu牛牛机场官方地址(2026年11月14日更新)
 NiuNiu牛牛机场官网地址</br>
 最新地址：[www.niuniuxxx.cc](https://to.iix.im/nn01)</br>
 官方地址：[www.niuniuxxx.cc](https://to.iix.im/nn01)</br>
